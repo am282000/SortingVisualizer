@@ -1,5 +1,5 @@
 # SortingVisualizer
-[![GitHub license](https://img.shields.io/github/license/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/issues)
 [![GitHub stars](https://img.shields.io/github/stars/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/stargazers)
 [![Linkedin](https://img.shields.io/badge/opensource-linkedin-blue.svg?style=flat-square)](https://www.linkedin.com/in/ashish2000/)
