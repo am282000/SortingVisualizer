@@ -1,5 +1,5 @@
 # SortingVisualizer
-[![GitHub license](https://img.shields.io/github/license/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/issues)
 [![GitHub stars](https://img.shields.io/github/stars/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/stargazers)
 [![Linkedin](https://img.shields.io/badge/opensource-linkedin-blue.svg?style=flat-square)](https://www.linkedin.com/in/ashish2000/)
@@ -77,7 +77,7 @@ Or
 
 ## License
 
-Distributed under [MIT License](https://github.com/am282000/SortingVisualizer/blob/master/LICENSE) © 2021 Ashish Madan. See `LICENSE` for more information.
+Distributed under [MIT License](https://github.com/am282000/SortingVisualizer/blob/main/LICENSE) © 2021 Ashish Madan. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
