@@ -1,8 +1,8 @@
 # SortingVisualizer
-[![GitHub license](https://img.shields.io/github/license/Rahul-Chauhan21/SortingVisualizer)](https://github.com/Rahul-Chauhan21/SortingVisualizer/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Rahul-Chauhan21/SortingVisualizer)](https://github.com/Rahul-Chauhan21/SortingVisualizer/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Rahul-Chauhan21/SortingVisualizer)](https://github.com/Rahul-Chauhan21/SortingVisualizer/stargazers)
-[![Linkedin](https://img.shields.io/badge/opensource-linkedin-blue.svg?style=flat-square)](https://www.linkedin.com/in/rahul-chauhan-80a32b194/)
+[![GitHub license](https://img.shields.io/github/license/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/issues)
+[![GitHub stars](https://img.shields.io/github/stars/am282000/SortingVisualizer)](https://github.com/am282000/SortingVisualizer/stargazers)
+[![Linkedin](https://img.shields.io/badge/opensource-linkedin-blue.svg?style=flat-square)](https://www.linkedin.com/in/ashish2000/)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -17,12 +17,12 @@ width="600" height="300">
 </p>
 <p align="center">
     <br />
-    <a href="https://github.com/Rahul-Chauhan21/SortingVisualizer/blob/master/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/am282000/SortingVisualizer/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://rahul-chauhan21.github.io/SortingVisualizer/">View Website</a>
     ·
-    <a href="https://github.com/Rahul-Chauhan21/SortingVisualizer/issues">Report Bug</a>
+    <a href="https://github.com/am282000/SortingVisualizer/issues">Report Bug</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -51,8 +51,8 @@ Following technologies are used in the project.
 - HTML 5
 - CSS 3
 - Bootstrap 4
-- React Js
-- Reactstrap
+- JavaScript
+- jQuery
 
 <!-- CONTRIBUTING -->
 
@@ -61,15 +61,15 @@ Following technologies are used in the project.
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. 🙌🙌
 
 1. Fork the Project
-2. Clone the repo(`https://github.com/Rahul-Chauhan21/SortingVisualizer.git`)
+2. Clone the repo(`https://github.com/am282000/SortingVisualizer.git`)
 3. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 5. Push to the Branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request(`https://github.com/Rahul-Chauhan21/SortingVisualizer/pulls`)
+6. Open a Pull Request(`https://github.com/am282000/SortingVisualizer/pulls`)
 
 In case you found a bug 🐛
 
-Open an issue (`https://github.com/Rahul-Chauhan21/SortingVisualizer/issues`)<br/>
+Open an issue (`https://github.com/am282000/SortingVisualizer/issues`)<br/>
 Or
 [Contact me](#contact)
 
@@ -77,17 +77,14 @@ Or
 
 ## License
 
-Distributed under [MIT License](https://github.com/Rahul-Chauhan21/SortingVisualizer/blob/master/LICENSE) © 2020 Rahul Chauhan. See `LICENSE` for more information.
+Distributed under [MIT License](https://github.com/am282000/SortingVisualizer/blob/master/LICENSE) © 2020 Rahul Chauhan. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
 ## Contact
 
-Rahul Chauhan : [Gmail](mailto:crahul1721@gmail.com) - [Linkedin](https://www.linkedin.com/in/rahul-chauhan-80a32b194/)
+Rahul Chauhan : [Gmail](mailto:madaansahaab777@gmail.com) - [Linkedin](https://www.linkedin.com/in/ashish2000/)
 
-Project Link : [https://github.com/Rahul-Chauhan21/SortingVisualizer](https://github.com/Rahul-Chauhan21/SortingVisualizer)
+Project Link : [https://github.com/am282000/SortingVisualizer](https://github.com/am282000/SortingVisualizer)
 
 <br/>
-<p align="center">
-<a href="https://github.com/clementmihailescu"><strong>Special Thanks to Clement</strong></a>
- </p>
