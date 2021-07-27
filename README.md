@@ -77,13 +77,13 @@ Or
 
 ## License
 
-Distributed under [MIT License](https://github.com/am282000/SortingVisualizer/blob/master/LICENSE) © 2020 Rahul Chauhan. See `LICENSE` for more information.
+Distributed under [MIT License](https://github.com/am282000/SortingVisualizer/blob/master/LICENSE) © 2021 Ashish Madan. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
 ## Contact
 
-Rahul Chauhan : [Gmail](mailto:madaansahaab777@gmail.com) - [Linkedin](https://www.linkedin.com/in/ashish2000/)
+AShish Madan : [Gmail](mailto:madaansahaab777@gmail.com) - [Linkedin](https://www.linkedin.com/in/ashish2000/)
 
 Project Link : [https://github.com/am282000/SortingVisualizer](https://github.com/am282000/SortingVisualizer)
 
