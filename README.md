@@ -83,7 +83,7 @@ Distributed under [MIT License](https://github.com/am282000/SortingVisualizer/bl
 
 ## Contact
 
-AShish Madan : [Gmail](mailto:madaansahaab777@gmail.com) - [Linkedin](https://www.linkedin.com/in/ashish2000/)
+Ashish Madan : [Gmail](mailto:madaansahaab777@gmail.com) - [Linkedin](https://www.linkedin.com/in/ashish2000/)
 
 Project Link : [https://github.com/am282000/SortingVisualizer](https://github.com/am282000/SortingVisualizer)
 
