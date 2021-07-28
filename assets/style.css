@@ -189,3 +189,10 @@ body {
 .slider:disabled::-moz-range-thumb {
 	cursor: not-allowed;
 }
+
+@media (max-width: 764px) {
+	img {
+		height: 100%;
+		width: 75%;
+	}
+}
