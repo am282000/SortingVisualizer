@@ -194,31 +194,31 @@ const question = [
 
 // Sorting Visualizer Starts
 
-const sorting = [
+const Sorting = [
 	'Sorting is any process of arranging items systematically . A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements '
 ];
 
-const typesOfSorting = [
+const TypesOfSorting = [
 	'There are mainly 6 sorting algorithms that is Quick Sort . Bubble Sort . Merge Sort . Insertion Sort . SelectioN Sort. and Heap Sort'
 ];
 
-const bubbleSort = [
+const BubbleSort = [
 	'Bubble sort works by repeatedly swapping the adjacent elements if they are in wrong order.'
 ];
 
-const selectionSort = [
+const SelectionSort = [
 	'Selection sort works by sorting an array by repeatedly finding the minimum element in ascending order from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array. First The subarray which is already sorted. Second Remaining subarray which is unsorted. In every iteration of selection sort, the minimum element from the unsorted subarray is picked and moved to the sorted subarray. '
 ];
 
-const insertionSort = [
+const InsertionSort = [
 	'In Insertion Sort The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.'
 ];
 
-const mergeSort = [
+const MergeSort = [
 	'Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves and then merges the two sorted halves. The merge function is used for merging two halves. '
 ];
 
-const quickSort = [
+const QuickSort = [
 	' QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways. First Always pick first element as pivot. Second Always pick last element as pivot . Third Pick a random element as pivot. Forth Pick median as pivot.'
 ];
 
@@ -226,7 +226,7 @@ const HeapSort = [
 	'Heap sort is a comparison based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the minimum element and place the minimum element at the beginning and repeat the same process for the remaining elements'
 ];
 
-const colorPattern = [
+const ColorPattern = [
 	' Skyblue indicates unsorted element . Green indicates sorted element . Red indicates the comparision between elements . Violet indicates the current selected element . Yellow indicates the Left element . and Orange indicates the Right element .'
 ];
 
@@ -246,7 +246,7 @@ recognition.onresult = function (event) {
 
 	const transcript = event.results[current][0].transcript;
 	//    console.log(transcript)
-	content.textContent = transcript;
+	// content.textContent = transcript;
 	readOutLoud(transcript);
 };
 
@@ -412,40 +412,40 @@ function readOutLoud(message) {
 
 	// About Sorting Visualizer
 	if (message.includes('sorting')) {
-		const finalText = sorting[Math.floor(Math.random() * sorting.length)];
+		const finalText = Sorting[Math.floor(Math.random() * Sorting.length)];
 		speech.text = finalText;
 	}
 
 	if (message.includes('types of sorting')) {
 		const finalText =
-			typesOfSorting[Math.floor(Math.random() * typesOfSorting.length)];
+			TypesOfSorting[Math.floor(Math.random() * TypesOfSorting.length)];
 		speech.text = finalText;
 	}
 
 	if (message.includes('bubble sort')) {
-		const finalText = bubbleSort[Math.floor(Math.random() * bubbleSort.length)];
+		const finalText = BubbleSort[Math.floor(Math.random() * BubbleSort.length)];
 		speech.text = finalText;
 	}
 
 	if (message.includes('selection Sort')) {
 		const finalText =
-			selectionSort[Math.floor(Math.random() * selectionSort.length)];
+			SelectionSort[Math.floor(Math.random() * SelectionSort.length)];
 		speech.text = finalText;
 	}
 
 	if (message.includes('Insertion sort')) {
 		const finalText =
-			insertionSort[Math.floor(Math.random() * insertionSort.length)];
+			InsertionSort[Math.floor(Math.random() * InsertionSort.length)];
 		speech.text = finalText;
 	}
 
 	if (message.includes('merge sort')) {
-		const finalText = mergeSort[Math.floor(Math.random() * mergeSort.length)];
+		const finalText = MergeSort[Math.floor(Math.random() * MergeSort.length)];
 		speech.text = finalText;
 	}
 
 	if (message.includes('Quicksort')) {
-		const finalText = quickSort[Math.floor(Math.random() * quickSort.length)];
+		const finalText = QuickSort[Math.floor(Math.random() * QuickSort.length)];
 		speech.text = finalText;
 	}
 
@@ -456,7 +456,7 @@ function readOutLoud(message) {
 
 	if (message.includes('colour')) {
 		const finalText =
-			colorPattern[Math.floor(Math.random() * colorPattern.length)];
+			ColorPattern[Math.floor(Math.random() * ColorPattern.length)];
 		speech.text = finalText;
 	}
 
