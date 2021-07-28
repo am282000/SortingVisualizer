@@ -20,7 +20,7 @@ width="600" height="300">
     <a href="https://github.com/am282000/SortingVisualizer/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://rahul-chauhan21.github.io/SortingVisualizer/">View Website</a>
+    <a href="https://vsabuddy.netlify.app/">View Website</a>
     ·
     <a href="https://github.com/am282000/SortingVisualizer/issues">Report Bug</a>
 </p>
@@ -42,7 +42,7 @@ width="600" height="300">
 The project is build upon [React](https://reactjs.org/) library and serves as a visualization tool for different sorting
 algorithms. Currently the user is able to visualize Merge Sort, Quick Sort(Hoare Partition), Heap Sort, Insertion Sort and Bubble Sort.
 <br/>
-The project is hosted on [Github pages](https://rahul-chauhan21.github.io/SortingVisualizer/).
+The project is hosted on [Netlify](https://vsabuddy.netlify.app/).
 
 ## Built With
 
